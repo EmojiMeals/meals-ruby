@@ -13,7 +13,7 @@ jobs:
       uses: actions/setup-ruby@v1
       with:
         ruby-version: 2.6.x
-    - name: Run Rubocop linter
+    - name: Run tests
       run: |
         gem install bundler
         bundle config path vendor/bundle
