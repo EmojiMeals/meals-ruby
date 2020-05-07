@@ -18,7 +18,7 @@ class Meals
     end
 
     def recipes
-      JSON.parse(File.read('recipes.json'))
+      JSON.parse(File.read(File.join(__dir__, 'recipes.json')))
     end
   end
 end

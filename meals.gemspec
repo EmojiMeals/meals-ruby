@@ -1,12 +1,12 @@
 Gem::Specification.new do |s|
   s.name        = 'meals'
-  s.version     = '1.2.3'
+  s.version     = '1.2.4'
   s.date        = '2020-04-20'
   s.summary     = 'Emoji cookbook'
   s.description = 'Find what you can cook with your emojis'
   s.authors     = ['Justin Leger', 'Hugh Xie']
   s.email       = 'hey@justinleger.ca'
-  s.files       = ['LICENSE', 'CHANGELOG.md', 'README.md', 'lib/meals.rb', 'recipes.json']
+  s.files       = ['LICENSE', 'CHANGELOG.md', 'README.md', 'lib/meals.rb', 'lib/recipes.json']
   s.homepage    = 'https://github.com/EmojiMeals/meals.rb'
   s.license     = 'MIT'
 
