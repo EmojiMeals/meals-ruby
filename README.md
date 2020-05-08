@@ -1,4 +1,4 @@
-# meals.rb [![Gem Version](https://badge.fury.io/rb/meals.svg)](https://badge.fury.io/rb/meals) ![emoji? yes](https://img.shields.io/badge/emoji%3F-%F0%9F%91%8D-brightgreen) ![Tests](https://github.com/EmojiMeals/meals.rb/workflows/Tests/badge.svg?branch=master)
+# meals-ruby [![Gem Version](https://badge.fury.io/rb/meals.svg)](https://badge.fury.io/rb/meals) ![emoji? yes](https://img.shields.io/badge/emoji%3F-%F0%9F%91%8D-brightgreen) ![Tests](https://github.com/EmojiMeals/meals-ruby/workflows/Tests/badge.svg?branch=master)
 
 Find what you can cook with your emojis
 
@@ -74,7 +74,7 @@ Of course, I'm glad you asked fam.
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/EmojiMeals/meals.rb/blob/master/LICENSE).
+This project is licensed under the [MIT License](https://github.com/EmojiMeals/meals-ruby/blob/master/LICENSE).
 
 ## Greetings
 
