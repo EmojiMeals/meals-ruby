@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'meals'
-  s.version     = '1.2.4'
+  s.version     = '1.2.5'
   s.date        = '2020-04-20'
   s.summary     = 'Emoji cookbook'
   s.description = 'Find what you can cook with your emojis'
@@ -11,8 +11,8 @@ Gem::Specification.new do |s|
   s.license     = 'MIT'
 
   s.metadata = {
-    "source_code_uri" => "https://github.com/EmojiMeals/meals.rb",
-    "changelog_uri"   => "https://github.com/EmojiMeals/meals.rb/blob/master/CHANGELOG.md"
+    "source_code_uri" => "https://github.com/EmojiMeals/meals-rb",
+    "changelog_uri"   => "https://github.com/EmojiMeals/meals-rb/blob/master/CHANGELOG.md"
   }
 
   s.add_development_dependency 'rake'
